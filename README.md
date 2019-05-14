@@ -1,0 +1,3 @@
+# fastmongo
+
+use postgres instead
